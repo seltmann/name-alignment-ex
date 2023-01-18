@@ -79,7 +79,7 @@ Jorrit Poelen | GloBI; Ronin Institute | https://orcid.org/0000-0003-3138-4118
 your name | your affiliation | your orcid
 
 
-# Feedback / issues
+## Feedback / issues
 
 This repository uses scripts in https://github.com/globalbioticinteractions/globinizer. These script use commandline tools like [GloBI](https://globalbioticinteractions.org)'s [nomer](https://github.com/globalbioticinteractions/nomer), cut, sed, etc. 
 
